@@ -1,0 +1,5 @@
+*distributional semantics*: A word's meaning is given by the word that frequently appear close by
+
+word vector: 
+    * vector for each word chosen similar to vectors of word that appears in similar contexts
+    * it encodes the word's meaning
