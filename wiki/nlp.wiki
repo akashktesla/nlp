@@ -3,3 +3,25 @@
 word vector: 
     * vector for each word chosen similar to vectors of word that appears in similar contexts
     * it encodes the word's meaning
+
+NLP:    
+    * name entity recognition
+    * part of speech tagging
+    * syntactic parsing
+    * text categorization
+    * coreference resoulution
+    * machine translation
+
+NLU:(natural language understanding)
+    * relation extraction
+    * paraphrasing
+    * semantic parsing
+    * sentiment analysis
+    * question and answering
+    * summarization
+
+
+
+
+
+
